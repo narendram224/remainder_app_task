@@ -1,3 +1,18 @@
+# LIVE LINK
+[LIVE LINK]([https://invoice-app-sigma-eight.vercel.app/](https://remainder-app-task.vercel.app/)
+
+
+# Screenshots
+
+<img width="1376" alt="Screenshot 2022-12-20 at 5 37 43 AM" src="https://user-images.githubusercontent.com/35723915/208551621-4bad19e1-9bbb-4e00-892a-0d8c2a8f8e33.png">
+
+<br/>
+<img width="988" alt="Screenshot 2022-12-20 at 5 38 11 AM" src="https://user-images.githubusercontent.com/35723915/208551659-f5fc5f0a-67d9-47c6-aa80-dfcb8a2b189f.png">
+</br>
+<img width="1140" alt="Screenshot 2022-12-20 at 5 38 41 AM" src="https://user-images.githubusercontent.com/35723915/208551698-3036c829-0534-461f-aee4-8be0fa62cbae.png">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
