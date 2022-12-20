@@ -1,0 +1,14 @@
+.checkboxlabel {
+  background-color: aliceblue;
+}
+.labelInfo {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+}
+.inputfield {
+  border: none;
+}
+.inputfield:focus {
+  border-bottom: 1px solid #eee;
+}

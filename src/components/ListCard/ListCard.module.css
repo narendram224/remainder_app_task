@@ -1,0 +1,30 @@
+.listCardContainer {
+  position: relative;
+
+  margin-bottom: 0.4rem;
+}
+.edit {
+  position: absolute;
+  top: 30px;
+  right: 10px;
+  color: skyblue;
+  cursor: pointer;
+}
+.delete {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  cursor: pointer;
+  color: var(--orange);
+}
+.content {
+  box-shadow: 0 3px 5px rgb(0 0 0 / 20%);
+  background-color: #fff;
+  border-color: #e0e0e0;
+  overflow: hidden;
+  border-radius: 4px;
+  width: 100%;
+  padding: 0.9rem;
+  display: flex;
+  padding-bottom: 1.8rem;
+}
